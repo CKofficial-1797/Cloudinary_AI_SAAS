@@ -60,6 +60,4 @@ public/      # Static assets
 types/       # Shared TypeScript types
 ```
 
-## License
 
-This project is provided for learning and demonstration purposes.
