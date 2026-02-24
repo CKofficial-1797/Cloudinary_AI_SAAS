@@ -42,3 +42,24 @@ Built with Next.js and Prisma, and designed for production-ready workflows.
 	```bash
 	npm run dev
 	```
+
+## Scripts
+
+- `npm run dev` - Start the development server
+- `npm run build` - Build for production
+- `npm run start` - Run the production server
+- `npm run lint` - Lint the codebase
+
+## Project Structure
+
+```
+app/         # Next.js routes and pages
+components/  # Reusable UI components
+prisma/      # Prisma schema and migrations
+public/      # Static assets
+types/       # Shared TypeScript types
+```
+
+## License
+
+This project is provided for learning and demonstration purposes.
