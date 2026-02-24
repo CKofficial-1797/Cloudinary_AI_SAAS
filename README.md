@@ -1,3 +1,4 @@
-# Build cloudinary AI powered SAAS
+# Cloudinary AI SaaS
 
-Project is Build using NextJS, cloudinary, Prisma, NeonDB and Daisy UI
+A modern SaaS app for uploading, transforming, and sharing media with Cloudinary.
+Built with Next.js and Prisma, and designed for production-ready workflows.
