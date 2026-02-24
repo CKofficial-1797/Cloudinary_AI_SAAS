@@ -10,3 +10,11 @@ Built with Next.js and Prisma, and designed for production-ready workflows.
 - Social sharing-friendly media pages
 - Auth-ready routing with Next.js App Router
 - Persistent storage with Prisma and a Postgres database
+
+## Tech Stack
+
+- Next.js (App Router)
+- TypeScript
+- Prisma ORM
+- Cloudinary
+- Tailwind CSS and DaisyUI
