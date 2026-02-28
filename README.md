@@ -53,7 +53,7 @@ Built with Next.js and Prisma, and designed for production-ready workflows.
 ## Project Structure
 
 ```
-app/         # Next.js routes and pages
+app/         
 components/  # Reusable UI components
 prisma/      # Prisma schema and migrations
 public/      # Static assets
