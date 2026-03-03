@@ -49,6 +49,7 @@ Built with Next.js and Prisma, and designed for production-ready workflows.
 - `npm run build` - Build for production
 - `npm run start` - Run the production server
 - `npm run lint` - Lint the codebase
+- 
 
 ## Project Structure
 
